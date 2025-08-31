@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ExecAayushDwD
-- 👀 I’m interested in Statistical applications of data using computer programming
-- 🌱 I’m currently learning Diploma In Computer Science CTEVT Nepal
-- 📫 Reach me at : aayushduwadi1975@gmail.com
+- 👀 I’m interested in making software and hardware based tools to design and implement multimedia artistic presentations
+- 💥 My arsenal include: C, C++, C#, Java, JavaScript, Python and HTML
+- 📫 Reach me at : parallexbeats@gmail.com
+- 🤝 Always to collaboration and joint effort to make dreams become reality
